@@ -1,2 +1,2 @@
 # smallstep
-print("Nice to see tou!")
+print("Nice to see you!")
